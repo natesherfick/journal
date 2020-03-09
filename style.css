@@ -2,3 +2,41 @@
 .mt{
   margin-top: 1em;
 }
+
+.center{
+  text-align: center;
+}
+
+body{
+font-family: 'Nunito', sans-serif;
+background-color: rgb(235, 238, 237);
+}
+
+.font-kalam{
+  font-family: 'Kalam', cursive;
+}
+
+.card{
+  width: 500px;
+  background-color: white;
+  padding: .5em;
+  border-radius: 10px;
+  box-shadow: rgb(7, 7, 7);
+}
+
+.dark{
+  background-color: rgb(54, 54, 54);
+}
+
+.light{
+  color: rgb(240, 240, 240);
+}
+
+.header{
+  border-radius: 5px;
+  height: 60px;
+  text-align: center;
+  text-justify: center;
+  font-size: 32pt;
+  font-family: 'Kalam', cursive;
+}
